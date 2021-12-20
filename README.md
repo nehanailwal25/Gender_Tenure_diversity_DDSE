@@ -31,3 +31,5 @@ Data Analysis is done in two ways:
   * Users_gender_classification.ipynb - Containing the code used for generating the gender of users (by using gender-guesser)
   * ProjectTenure_Teamsize_classification.ipynb - Containing the data classification done on the basis of Project Tenure and team sizes.
   * Main_Data_Analysis.ipynb - Containing the whole code for the final analysis.
+
+* Analysis Results - Containing at glance the results generated from the Final Analysis.
