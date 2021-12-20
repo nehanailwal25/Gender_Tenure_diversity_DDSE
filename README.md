@@ -2,6 +2,8 @@
 
 Even though we live in a STEM world powered by technologies the gender discrimination still exists. This is not just a random guess that females feel less welcomed in the Software industry, but it is a proven fact because many females and even males think the same about their female colleagues. It should often be considered that some feminine influence is indeed needed in the software world along with the masculine influence. Females are considered better coders than men, many studies have proven this, but still, their consideration is the bare minimum in this well-known technology-driven world. In the world we see today where one side we are moving to a more advanced and developed work of Science and Technology but we are still lagging behind in terms of including diversity in the jobs bringing the revolution today. Most of the discrimination that is faced in the Technical world today is mostly on the basis of one type of diversity that is gender diversity. This is the reason that in this project the main focus is covering the concern of gender inclusion in various perspectives in the Software industry today.
 
+**** Replication : 24.	Vasilescu, B., Posnett, D., Ray, B., van den Brand, M. G., Serebrenik, A., Devanbu, P., & Filkov, V. (2015, April). Gender and tenure diversity in GitHub teams. In Proceedings of the 33rd annual ACM conference on human factors in computing systems (pp. 3789-3798).
+
 ### Data Collection
 
 Two main parts of Data Cllection were:
